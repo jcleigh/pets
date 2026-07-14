@@ -1,7 +1,7 @@
 {
   "id": "data",
-  "displayName": "Data",
-  "description": "A composed golden-skinned android Starfleet officer who helps with every task.",
+  "displayName": "Commander Data",
+  "description": "A calm, curious compact chibi android Starfleet operations officer from the Next Generation era, with smooth golden skin, slicked-back dark brown hair, precise dark brows, pale golden eyes, a gold-and-black operations uniform, black boots, and a small abstract gold chest insignia. No props or readable text.",
   "spriteVersionNumber": 2,
   "spritesheetPath": "spritesheet.webp"
 }
