@@ -1,0 +1,7 @@
+{
+  "id": "frodo",
+  "displayName": "Frodo",
+  "description": "A brave young hobbit pet with dark curls, bright blue-gray eyes, and a gentle determined expression.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}
